@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Visma.Consumer": {
+      "commandName": "Project",
+      "commandLineArgs": "youtube"
+    }
+  }
+}
